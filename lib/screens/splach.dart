@@ -38,7 +38,7 @@ class _SplachScreenState extends State<SplachScreen> {
                 color: Colors.black),
           ),
           Text(
-            'Cloud',
+            ' Cloud',
             style: TextStyle(
                 fontSize: 35,
                 fontWeight: FontWeight.bold,
